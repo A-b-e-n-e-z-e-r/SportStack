@@ -100,4 +100,5 @@ public class Game {
     public int getVisitor_team_score() {
         return visitor_team_score;
     }
+    
 }

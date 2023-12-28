@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class Team {
-    private String abreviation;
+    private String abbreviation;
     private String city;
     private String conference;
     private String division;
@@ -19,8 +19,8 @@ public class Team {
         players.remove(p);
     }
 
-    public String getAbreviation() {
-        return abreviation;
+    public String getabbreviation() {
+        return abbreviation;
     }
 
     public String getCity() {
